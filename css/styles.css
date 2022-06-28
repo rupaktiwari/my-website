@@ -1,10 +1,12 @@
 body {
   
-  background-color: powderblue;
+  background-color: aquamarine;
 }
 h2 {
   color: azure;
+  font-size: 3px;
+  /* have all of your properties in aphabetical order */
 }
-hr {
-  border-color:azure;
+.journey {
+  border-radius: 100%;
 }
