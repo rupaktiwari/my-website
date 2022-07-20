@@ -1,12 +1,37 @@
 body {
+  background-color: skyblue;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+}
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento',cursive;
+  font-size: 75px;
+}
+.bottom-cloud {
+  position: absolute;
+  left:150px;
+  top: 250px;
+}
+.top-container {
+  position: relative;
+  padding-top: 100px;
+
+}
+.top-cloud {
+  position: absolute;
+  right:200px;
+  top: 50px;
   
-  background-color: aquamarine;
 }
-h2 {
-  color: azure;
-  font-size: 3px;
-  /* have all of your properties in aphabetical order */
+h2{
+  font-family: 'Montserrat',sans-serif;
 }
-.journey {
-  border-radius: 100%;
+h3{
+  font-family: 'Montserrat',sans-serif;;
 }
