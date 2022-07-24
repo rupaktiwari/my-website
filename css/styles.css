@@ -48,18 +48,21 @@ h3{
 }
 .skill-row {
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 100px auto;
   text-align: left;
   line-height: 2;
 
 }
 .codeimg {
   width: 25%;
-  float: left;
-  margin-right: 30px;
+  float: right;
 }
 .music {
   width: 25%;
-  
+  float: left;
+  margin-right: 30px;
  
+}
+.mountain {
+margin-bottom: 100px;
 }
